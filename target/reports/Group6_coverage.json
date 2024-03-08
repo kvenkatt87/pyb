@@ -6,13 +6,14 @@
       "branches_partial": 0,
       "coverage": 100.0,
       "lines": [
-        1,
-        2,
-        3
+        5,
+        7,
+        15,
+        18
       ],
       "lines_not_covered": [],
       "module": "Group6",
-      "sum_lines": 3,
+      "sum_lines": 4,
       "sum_lines_not_covered": 0
     }
   ],

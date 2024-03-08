@@ -4,7 +4,7 @@ This is a simple module to demonstrate a hello world function in Python.
 
 import sys
 
-def Group6(out):
+def group6(out):
     """
     Print a message.
 
@@ -15,4 +15,4 @@ def Group6(out):
     out.write("Assignment Pending\n")
 
 # Call the function with a file object
-Group6(sys.stdout)
+group6(sys.stdout)
