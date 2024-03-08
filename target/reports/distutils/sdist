@@ -18,7 +18,7 @@ running check
 creating Group6-1.0.dev0
 creating Group6-1.0.dev0/Group6.egg-info
 copying files to Group6-1.0.dev0...
-copying Group6.py -> Group6-1.0.dev0
+copying group6.py -> Group6-1.0.dev0
 copying setup.py -> Group6-1.0.dev0
 copying Group6.egg-info/PKG-INFO -> Group6-1.0.dev0/Group6.egg-info
 copying Group6.egg-info/SOURCES.txt -> Group6-1.0.dev0/Group6.egg-info

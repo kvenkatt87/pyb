@@ -1,7 +1,7 @@
 from mockito import mock, verify
 import unittest
 
-from Group6 import group6
+from group6 import group6
 
 class AssignmentTest(unittest.TestCase):
     def test_should_issue_Assignment_pending_message(self):

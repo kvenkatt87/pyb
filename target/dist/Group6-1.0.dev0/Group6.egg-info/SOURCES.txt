@@ -1,4 +1,4 @@
-Group6.py
+group6.py
 setup.py
 Group6.egg-info/PKG-INFO
 Group6.egg-info/SOURCES.txt
