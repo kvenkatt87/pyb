@@ -1,0 +1,8 @@
+Group6.py
+setup.py
+Group6.egg-info/PKG-INFO
+Group6.egg-info/SOURCES.txt
+Group6.egg-info/dependency_links.txt
+Group6.egg-info/namespace_packages.txt
+Group6.egg-info/top_level.txt
+Group6.egg-info/zip-safe

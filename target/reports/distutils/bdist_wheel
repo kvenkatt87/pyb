@@ -1,0 +1,49 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.10' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib
+copying Group6.py -> build/lib
+/home/kvenkatt/pyb/.pybuilder/plugins/cpython-3.10.6.final.0/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` directly.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+        ********************************************************************************
+
+!!
+  self.initialize_options()
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+copying build/lib/Group6.py -> build/bdist.linux-x86_64/wheel
+running install_egg_info
+running egg_info
+writing Group6.egg-info/PKG-INFO
+writing dependency_links to Group6.egg-info/dependency_links.txt
+writing namespace_packages to Group6.egg-info/namespace_packages.txt
+writing top-level names to Group6.egg-info/top_level.txt
+reading manifest file 'Group6.egg-info/SOURCES.txt'
+writing manifest file 'Group6.egg-info/SOURCES.txt'
+Copying Group6.egg-info to build/bdist.linux-x86_64/wheel/Group6-1.0.dev0-py3.10.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/Group6-1.0.dev0.dist-info/WHEEL
+creating 'dist/Group6-1.0.dev0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'Group6.py'
+adding 'Group6-1.0.dev0.dist-info/METADATA'
+adding 'Group6-1.0.dev0.dist-info/WHEEL'
+adding 'Group6-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'Group6-1.0.dev0.dist-info/top_level.txt'
+adding 'Group6-1.0.dev0.dist-info/zip-safe'
+adding 'Group6-1.0.dev0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel
