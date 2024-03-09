@@ -6,7 +6,7 @@ import sys
 
 def group6(out):
     """
-    Print a message.
+    Print a message new
 
     Args:
         out: Output stream to write the message to.
